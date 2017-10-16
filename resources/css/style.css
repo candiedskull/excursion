@@ -1,17 +1,17 @@
 body{
   background-color:black;
   text-align:center;
+  font-family:Verdana;
+  color:white;
 }
 
-h1,h2,h3,h4
-{
-  font-family: Verdana;
+h2,.footer{
+  color:gray;
 }
 h1
 {
   font-weight: normal;
   font-size: 50px;
-  color:white;
   text-align: center;
 }
 
@@ -24,17 +24,14 @@ h3 a{
 }
 
 h2{
-  color:gray;
   font-size:21px;
 }
 h4
 {
   font-size: 42px;
-  color:white;
 }
 
 .footer
 {
   text-align: right;
-  color:gray;
 }
